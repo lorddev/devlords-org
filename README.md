@@ -1,6 +1,6 @@
-# devlords open-source co-op
+# devlords: an open-source cooperative dev agency
 
-The documents contained herein act as a constitution of sorts for a democratic cooperative of software developers. Rather than "working for the man" agency members will have equal say as stakeholders in a company that we direct together as equals.
+The documents contained herein act as a constitution of sorts for a democratic cooperative of software developers. Rather than "working for the man" agency members will have equal say as stakeholders in a company that we direct together as partners.
 
 ## Project structure
 
@@ -9,6 +9,7 @@ Source code for the constitution is contained in Markdown files. "Releases" will
 ## Pages
 
 1. [Road map](./org/roadmap.md)
+2. [Constitution draft](./org/constitution.md)
 
 ### References
 
