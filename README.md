@@ -1,6 +1,10 @@
 # devlords: an open-source cooperative dev agency
 
-The documents contained herein act as a constitution of sorts for a democratic cooperative of software developers. Rather than "working for the man" agency members will have equal say as stakeholders in a company that we direct together as partners.
+Have you ever discovered that big secret that management had been keeping from you for years--that you were being severely underpaid even as they told you that you weren't? Or that someone else on your team turned out to be making twice as much as you even though you were a better developer and had twice as much experience?
+
+It's time for a new paradigm in this industry which completely lacks unions. The answer is that we organize ourselves.
+
+The documents contained herein make up a constitution of sorts for a democratic cooperative of software developers. Rather than "working for the man", agency members will have equal say as stakeholders in a company that we direct together as partners. In doing so, we can serve our clients optimally and equally.
 
 ## Project structure
 
