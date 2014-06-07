@@ -1,4 +1,4 @@
-## Small constitution
+## Articles of Association
 
 The organization is a cooperative worker-directed agency. Decisions typically made by an owner, CEO, or board of directors made up of owners and managers will instead made democratically by all those whose livelihoods and well-being depend directly on the business and who directly contribute to the production of the surplus.
 
