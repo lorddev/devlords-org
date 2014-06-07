@@ -14,3 +14,10 @@ The _surplus-producing_ workers together function as the board of directors, so 
 
 Unlike other organizations, there will never be a time when there are development managers who don't actually write code. We will say right now: this is hereby forbidden in our constitution. Developers may rotate between writing code, QA, project management, and DevOps. But they will always rotate back into development.
 
+### Ownership
+
+When new producer employees are added to the company, they must be added to as owner-shareholders within 8 weeks by the company filing the appropriate ammendments with the California secretary of state.
+
+### Dissolution
+
+When an employee leaves the company, the employee's shares will be converted to non-voting shares within 8 weeks by filing the appropriate ammendments with the California secretary of state. The departing member may then elect to participate in the buyback program or to continue receiving dividends.
