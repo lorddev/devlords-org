@@ -20,4 +20,4 @@ When new producer employees are added to the company, they must be added to as o
 
 ### Dissolution
 
-When an employee leaves the company, the employee's shares will be converted to non-voting shares within 8 weeks by filing the appropriate ammendments with the California secretary of state. The departing member may then elect to participate in the buyback program or to continue receiving dividends.
+When an employee leaves the company, the employee's shares will be converted to non-voting shares within 8 weeks by filing the appropriate ammendments with the California secretary of state. The departing member may then elect to redeem the shares via the buyback program or to continue receiving dividends via non-voting shares.
