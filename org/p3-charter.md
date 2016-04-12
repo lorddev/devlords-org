@@ -12,7 +12,7 @@ The _surplus-producing_ workers together function as the board of directors, so 
 
 ### Rule of management
 
-Unlike other organizations, there will never be a time when there are development managers who don't actually write code. We will say right now: this is hereby forbidden in our constitution. Developers may rotate between writing code, QA, project management, and DevOps. But when managers' terms are over, they must always rotate back into engineering.
+Development managers are elected at a biannual meeting and can serve at most 2 consecutive terms.  Unlike other organizations, there will never be a time when there are development managers who don't actually write code.  We will say right now: this is hereby forbidden in our constitution.  Developers may rotate between writing code, QA, project management, and DevOps.  But when managers' terms are over, they must always rotate back into engineering.
 
 ### Ownership
 
