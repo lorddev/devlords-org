@@ -11,6 +11,7 @@ Source code for the charter documents is contained in Markdown files. "Releases"
 1. [Draft charter](./org/p3-charter.md)
 2. [Business development](./org/p4-busdev.md)
 3. [Investment considerations](./org/p5-investment.md)
+4. [Hiring](./org/p6-hiring.md)
 
 ### References
 
