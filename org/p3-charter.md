@@ -4,7 +4,7 @@ The organization is a cooperative worker-directed agency. Decisions typically ma
 
 Democracy is a central value for modern civilization. But our local and national elections in modern democracies only give us limited input into the actual running of things. We may elect our leaders, or our electoral college may do so, but can't really keep our leaders in line, and they often end up fighting for the interests of lobbyists and campaign donors rather than their own constituents.
 
-Beyond biannual elections, democracy doesn't really happen in our communities and workplaces. Most workers are subservient to their managers and owners. If they attempt to unionize or otherwise make their voices heard, they would risk getting fired or passed over for promotions.
+Beyond our regular governmental elections, democracy doesn't really happen in our communities and workplaces. Most workers are subservient to their managers and owners. If they attempt to unionize or otherwise make their voices heard, they risk getting fired or passed over for promotions.
 
 In contrast, a worker-directed cooperative would directly involve the collaborative efforts of all employees to build the company and run it democratically.
 
