@@ -27,3 +27,5 @@ And when keeping code in the same framework:
 Our most valuable services involve the implementation of process improvements and continuous-integration methods:
 * Implementing a Git source-control strategy
 * Implementing TeamCity and SonarQube for automated builds and testing.
+
+If you'd like to join our team, or if you find yourself needing our services, please email aaron@lorddesign.net.
