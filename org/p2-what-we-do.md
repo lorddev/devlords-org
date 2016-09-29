@@ -1,13 +1,14 @@
 ## What We Do
 
-For web apps and services, we can provide full-service development for the whole product's lifecycle, from requirements gathering 
-and wireframes, to production deployment and maintenance. But our primary focus is the maintenance of legacy applications. 
-We remember the cross-compatibility requirements of the _First Browser Wars_. We have lived through upheavals due to the discontinuation 
-of support for legacy technologies, and we know how to make the necessary adjustments to ensure software longevity.
+For web apps and services, we can provide full-service development for the whole product's lifecycle, from requirements gathering
+and wireframes, to production deployment and maintenance. But our primary focus is the maintenance of legacy applications.
+We remember the cross-compatibility requirements of the _First Browser Wars_. We have lived through upheavals due to the
+discontinuation of support for legacy technologies, and we know how to make the necessary adjustments to ensure software
+longevity.
 
  We have years of experience with
 * Conversion of legacy HTML to modern cross-browser HTML5
-* VbScript to JavaScript
+* VBScript to JavaScript
 * Microsoft Access to SQL Server
 * Browser-specific vanilla JavaScript to jQuery's cross-browser DOM
 * Classic ASP to ASP.NET
