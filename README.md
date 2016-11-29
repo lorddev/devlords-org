@@ -1,4 +1,3 @@
-<img src="/Image.png" alt="devlords cooperative" width="100px" />
 # devlords: an open-source cooperative software development agency
 The documents contained herein are intended to be an open-source constitution for a democratic cooperative of software
 developers.
@@ -23,3 +22,5 @@ interact with _this_ documentation. Anyone can participate, so please fork and c
 ### References
 
 Wolff, Richard, _Democracy at Work: A Cure for Capitalism_, 2012 [kindle](http://www.amazon.com/Democracy-at-Work-Cure-Capitalism-ebook/dp/B009CGZIPU/ref=tmm_kin_swatch_0?_encoding=UTF8&sr=&qid=)
+
+<img src="/Image.png" alt="devlords cooperative" width="100px" />
