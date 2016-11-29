@@ -1,8 +1,5 @@
-
-![devlords][Image.png]
-
+<img src="/Image.png" alt="devlords cooperative" width="100px" />
 # devlords: an open-source cooperative software development agency
-
 The documents contained herein are intended to be an open-source constitution for a democratic cooperative of software
 developers.
 As part of a worker-directed cooperative, agency members will have equal say as stakeholders in a company that we direct
