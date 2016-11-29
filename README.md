@@ -1,3 +1,6 @@
+
+![devlords][Image.png]
+
 # devlords: an open-source cooperative software development agency
 
 The documents contained herein are intended to be an open-source constitution for a democratic cooperative of software
