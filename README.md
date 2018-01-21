@@ -24,3 +24,7 @@ interact with _this_ documentation. Anyone can participate, so please fork and c
 Wolff, Richard, _Democracy at Work: A Cure for Capitalism_, 2012 [kindle](http://www.amazon.com/Democracy-at-Work-Cure-Capitalism-ebook/dp/B009CGZIPU/ref=tmm_kin_swatch_0?_encoding=UTF8&sr=&qid=)
 
 <img src="/Image.png" alt="devlords cooperative" width="100px" />
+
+| Join us on Slack     |
+|------     |
+| [![Join the team on Slack](https://slack-devlords-org.herokuapp.com/badge.svg)](https://slack-devlords-org.herokuapp.com/) |
