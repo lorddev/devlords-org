@@ -27,4 +27,4 @@ Wolff, Richard, _Democracy at Work: A Cure for Capitalism_, 2012 [kindle](http:/
 
 | Join us on Slack     |
 |------     |
-| [![Join the team on Slack](https://slack-devlords-org.herokuapp.com/badge.svg)](https://slack-devlords-org.herokuapp.com/) |
+| [Join the team on Slack](https://devlords.slack.com/) |
